@@ -1,0 +1,18 @@
+table {
+  width: 100%;
+  min-width: 700px;
+}
+
+.mat-card {
+  width: 100%;
+}
+form {
+  background: #424242;
+  .mat-form-field {
+    width: 200px;
+  }
+  input,
+  button {
+    color: white;
+  }
+}
